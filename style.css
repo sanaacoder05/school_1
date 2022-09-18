@@ -1,0 +1,9 @@
+.d{
+border-top-left-radius: 30%;
+border-style: groove;
+border-color: fuchsia;
+border-width: 10px;
+}
+h1{
+    font-family: cursive;
+}
